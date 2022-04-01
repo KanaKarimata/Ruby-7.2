@@ -3,4 +3,4 @@ dice = 0
    dice = rand (1..6)
    puts dice
  end
- 
+ # 再度アップロード
